@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "qpathways-dev",
+  "private_key_id": "ed48c6fee52374dfa11db98420727746f6093947",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC00tNLD9dRjQA1\n1QiWjpHcb+vUCSTN7kpvZxGzm11xCFvu0mhfUvFgEgZA+pZZ/N/GN3zWsb/VGrrb\nyGui62/dFZewr23gqKD5Q1E3Bjx4RijxFv6h8AVKM+qFa6Qcw8aEE6N4GDn4joEE\n5mBsCj7z3d+zaInh3zA5XJWfM71HIneizfIL/UnvDMqHJCjrlMEMHaqVsy3E2LsA\nXFIGwypFEy50m+rPTg1cBJya8Z1rG+A+m1d/zOHrPiVqGmN0apkU6cvwy0WIOPq+\nP80lcP+YGAgh4DAYbs4kxmwr6epo/2hAYyUf3/4cJ9sqrVNBPfC9F5aI1/0fTHX6\nN0XjeQPhAgMBAAECgf9/fiZ8Ri8K0N/VFN95SAyP4FnmpovMprbU1Vcly+WWTM6F\nFNWCYHjPw+Wk6woXaLRejcD3n1wiZTZawHUj6dx1hUPuz8IpJLxbA5u/sCXyp4U2\nd4ARraoNJ42zhLGxllfhx/b6NhqppdBSJBzYEGFSkJ2pYYvWNgdKan0UQuaxv+rd\nRruMeEFNtbUgHij6q7xZWs4SgRqM2xRwn/sXj1s0rAGhv6KZIdLvSikc7nS0nr6j\nNFclBrsoWcNuBb9E9otY0sAvjT2tIk4MEhUm1mprfbmfKxts18zFxdlk6JOzKkWF\nnF+fzR1yhK9xFe6z6Mq3GNxXjTUc2XIG90RMwdsCgYEA7Fc8+4dO7HRird0kNYzy\nqlz6w2PKx79I3c05CFVAas8PkosQMHHA5dS8vcpbhYyPzgtv6PO2HPQ/kGtrJauB\ncfCURsySBhOnyyu/efZde+E0WnXfLtP/Aw6DBiCSMQAZm5fTxtBUzqC8kQQ1j0Di\nVHzL6tOw6ye07is+3cXMduMCgYEAw91f5Qm2cagZbnLvPEYNksFyG8ZjihxP21yv\nz2nUX1mbxgetY1vBCDs9zqR9LPMBJmZMyvMafcoz4S81ui4FEtikziuYYHYprYrg\nlYcfeWvaQQNhH6CyIiXC3xIRj2quhuW2hProc+qQr504HxJPkATinDFgcMJTXtpx\nQLx80WsCgYEAwhyovqIUhYrV3Z0K91yrlpdFcqOM0mBedaXv2NNEVDV6wc6r3k4f\ns+T1nCAO6XJYTlAAe2FnywIlDvXbDBZ/+9gvwLKWoJ0WLH3jB0X85BlEyaOUSj7e\nbWFG5gpsaAh//9ZEnz9O2GMWXTkK0HznJ6NUTKvP3GRBa3hjavzhgScCgYEArdg6\nejchuUWjtPXMw+nFuGF834w542b3tlNRNL7RIgSOD7nWut7AuYajeFtlQ1U4yxV3\nyZb3B3lGjPNzM5oPJMgnl1r4d33JxmACsJVraUFCSfwu43ylP0vW6FnIPkxJNjCD\nzQpK8j/bRhQ8sM920PSVEl99IvhIOWOXrAbgnpsCgYEA00xbzaLmfKvJZDy417+E\nJgQHW4r+sA8HzHBkZLE0Bd1P+R/dNuyjrxPOOGZRPQZ6EvIqa318ed/zQ47+2yhu\nAOnGeZGk23bUuJAjEnwjQmGePEP5DHKmqvANp3qmqWAu5CRIDoKTQHEq6zHDgc+i\nI747MyXHfGM0SYPDi2H8wTA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "qpm-docs@qpathways-dev.iam.gserviceaccount.com",
+  "client_id": "113694929045595137163",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/qpm-docs%40qpathways-dev.iam.gserviceaccount.com"
+}
